@@ -1,0 +1,7 @@
+- Expo protected layouts ([https://docs.expo.dev/router/advanced/protected](https://docs.expo.dev/router/advanced/protected))  
+- Use new context without provider ([https://react.dev/reference/react/createContext](https://react.dev/reference/react/createContext))  
+- Zustand + secure store get item and set item (do we need to persist?)
+- Haptics  
+- Bouncy buttons  
+- Loading state/empty states
+- usenativestate expo

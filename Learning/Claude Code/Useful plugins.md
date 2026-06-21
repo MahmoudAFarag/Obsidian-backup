@@ -1,0 +1,4 @@
+- lsp support claude code
+- context 7
+- open ai docs
+- code simplify

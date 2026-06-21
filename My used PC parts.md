@@ -1,0 +1,6 @@
+- CPU: Intel core i5 12400f + fan  -> 7500 (new) -> 5500 EGP  
+- CPU: Ryzen 3 4300G + fan -> 4300 (new) -> 3000 EGP
+- RAM: Acer 8GB DDR4 3200MHZ -> 1800 EGP
+- Motherboard: ASUS PRIME B760M-K DDR5 -> 4650 (new) -> 3500 EGP  
+- SSD: Acer FA100 256gb M.2 -> 2500 (new) -> 1500 EGP
+- PSU: Thermaltake 600W PSU -> 1200 EGP

@@ -1,0 +1,5 @@
+.obsidian/workspace
+.obsidian/plugins/*/data.json  # if you don't want plugin data
+*.log
+.DS_Store
+Thumbs.db
