@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "267836dab8a417d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Claude Code/Claude Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude Settings"
-            }
-          },
-          {
             "id": "fe39368b010b6123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel Ai bot prompt.md",
+                "file": "My used PC parts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laravel Ai bot prompt"
+              "title": "My used PC parts"
+            }
+          },
+          {
+            "id": "0e1a56d98ad24a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trusted Order/Docs/Walkthrough doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Walkthrough doc"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 231.5
   },
   "right": {
     "id": "5d5351828c1d7eeb",
@@ -199,21 +199,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe39368b010b6123",
+  "active": "0e1a56d98ad24a7e",
   "lastOpenFiles": [
+    "Trusted Order/Docs/Integration guide changes.md",
+    "Trusted Order/Docs/Walkthrough doc.md",
+    "Factory reset guide.md",
+    "My used PC parts.md",
+    "Trusted Order/Docs/Buyer guide notes.md",
+    "Trusted Order/Docs",
+    "Trusted Order/Frontend/Invoice changes.md",
+    "Trusted Order/Frontend/Website for Egypt.md",
+    "Trusted Order/Backend/Zoho books - Chart of Accounts + Invoices.md",
+    "Quotem/Architecture.md",
+    "Trusted Order/Backend/Upload projects to git.md",
+    "Trusted Order/Backend/Seller API token.md",
+    "Quotem",
+    "Laravel Ai bot prompt.md",
     "Bybit.md",
     "Learning/Claude Code/Claude Settings.md",
     "Learning/Claude Code/Useful plugins.md",
-    "Trusted Order/Backend/Seller API token.md",
-    "Laravel Ai bot prompt.md",
     "Learning/Expo-React Native/New expo improvements to investigate in app.md",
     "Learning/Claude Code",
-    "Untitled",
-    "My used PC parts.md",
     "Learning/Expo-React Native",
     "Learning",
-    "Trusted Order/Backend/Upload projects to git.md",
-    "Trusted Order/Backend/Zoho books - Chart of Accounts + Invoices.md",
     "Welcome.md",
     "Trusted Order/Frontend",
     "Trusted Order/Backend",
