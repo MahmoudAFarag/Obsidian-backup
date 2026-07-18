@@ -54,3 +54,35 @@ Check if i can rename the organization to the same name
 - [x] tax
 - [x] customer name
 - [x] customer phone
+
+
+
+The first digit follows the common accounting category; the remaining digits organize accounts logically and leave space for expansion.
+
+- `1010 — Bank Account (Cash)`
+    
+    - `1xxx` means asset.
+    - `10xx` places highly liquid cash and bank accounts first.
+    - `1010` leaves `1000` available as a category heading and permits future accounts such as `1020` or `1030`.
+- `1200 — Payment Gateway`
+    
+    - `1xxx` means asset because unsettled PSP funds are money owed to the company.
+    - `12xx` separates funds in transit from actual bank cash.
+    - Future gateway accounts could use `1210`, `1220`, etc.
+- `2100 — Sellers Payable`
+    
+    - `2xxx` means liability.
+    - `21xx` represents short-term operational payables.
+    - It distinguishes seller obligations from taxes, payroll liabilities, loans, and other liabilities.
+- `4100 — Buyer Fees`
+    
+    - `4xxx` means income or revenue.
+    - `41xx` represents primary operating revenue.
+    - It leaves other ranges available for commissions, delivery revenue, interest, and other income.
+
+
+
+https://www.zoho.com/books/academy/accounting-principles/what-is-chart-of-accounts.html
+
+
+Zoho’s accounting guidance uses the same ranges: `1000–1999` assets, `2000–2999` liabilities, `3000–3999` equity, `4000–4999` income, and `5000–5999` expenses. It also recommends unique account codes for identification and organization

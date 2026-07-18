@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trusted Order/Docs/Walkthrough doc.md",
+                "file": "Trusted Order/Tasks/29 June 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Walkthrough doc"
+              "title": "29 June 2026"
             }
           }
         ],
@@ -201,21 +201,25 @@
   },
   "active": "0e1a56d98ad24a7e",
   "lastOpenFiles": [
+    "Trusted Order/Backend/Zoho books - Chart of Accounts + Invoices.md",
+    "Trusted Order/Tasks/29 June 2026.md",
+    "TEMP CREDS.md",
+    "Bybit.md",
+    "My used PC parts.md",
     "Trusted Order/Docs/Integration guide changes.md",
+    "Trusted Order/Tasks",
+    "Trusted Order/Docs/Untitled.md",
     "Trusted Order/Docs/Walkthrough doc.md",
     "Factory reset guide.md",
-    "My used PC parts.md",
     "Trusted Order/Docs/Buyer guide notes.md",
     "Trusted Order/Docs",
     "Trusted Order/Frontend/Invoice changes.md",
     "Trusted Order/Frontend/Website for Egypt.md",
-    "Trusted Order/Backend/Zoho books - Chart of Accounts + Invoices.md",
     "Quotem/Architecture.md",
     "Trusted Order/Backend/Upload projects to git.md",
     "Trusted Order/Backend/Seller API token.md",
     "Quotem",
     "Laravel Ai bot prompt.md",
-    "Bybit.md",
     "Learning/Claude Code/Claude Settings.md",
     "Learning/Claude Code/Useful plugins.md",
     "Learning/Expo-React Native/New expo improvements to investigate in app.md",
