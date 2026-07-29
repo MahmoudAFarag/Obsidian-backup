@@ -1,0 +1,3 @@
+- Mada auto capture 60 mins and other cards 15 mins
+- 100% pay (55 SAR) then issue and 100% refund (without the service fee, correct validation), displays the service fee as 5 correct but not invoice link (#80089).
+* 20% hold (29 SAR) and 80% (101 SAR) pay then issue and 100% refund. Refunded 96 SAR correctly and voided (unhold) the 29 SAR. Displays the service fee as 5 correct but not invoice link (#41268).
