@@ -1,0 +1,9 @@
+- In case the buyer doesnt have name, show default "User" name
+- if completely new -> 3 messages (welcome, pin, order details)
+- if created pin but still not registered/login -> send 1 order details
+- if already registered don't send anything
+- Open app in order details template should open on playstore only
+- Test socket completely disconnecting
+- Add id to /profile
+- in t2, add account for each payment gateway and map it. Instead of Payment Gateway in general, name them "Moyasar", "Kashier" and add a mapping between zoho account and payment gateway in table
+- modify t1 to send to mapped payment gateway instead of the generic
